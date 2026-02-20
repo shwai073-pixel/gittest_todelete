@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 pan ou
+=======
+tafce
+>>>>>>> d7dde909b775fe0e56487c74f1d4c9aab40a7f51
